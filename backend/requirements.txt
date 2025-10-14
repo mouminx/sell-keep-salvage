@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+opencv-python
+pytesseract
+beautifulsoup4
+requests
+sqlite-utils
+python-multipart
+httpx
